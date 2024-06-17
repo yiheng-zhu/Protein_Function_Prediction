@@ -4,7 +4,7 @@ from decimal import Decimal
 import numpy as np
 import Find_Parents as fp
 
-diamond_dir = "/data/yihengzhu/toolbars/sequence_homology_tools/"
+diamond_dir = "/data/yihengzhu/toolbars/sequence_homology_tools/DIOMAND/"
 
 def format_database(sequence_file, database_file):
 
